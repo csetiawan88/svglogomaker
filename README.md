@@ -22,3 +22,4 @@ GITHUB: https://github.com/csetiawan88/svglogomaker
 
 - [Node.js](https://nodejs.org/)
 - [Inquirer.js](https://www.npmjs.com/package/inquirer)
+- [Jest](https://www.npmjs.com/package/jest)
