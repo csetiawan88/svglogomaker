@@ -40,12 +40,20 @@ SO THAT I don't have to pay a graphic designer
 
 Video created with Screencastify.
 
-Video Link demonstration:
+Video Link demonstration: https://drive.google.com/file/d/1nWBkBd2Fr3q9zdI1Pwo1ySH9nyvVqkh8/view
 
 ## Screenshot
 
+#### Generating User Input
+
 ![Generating User Input](screenshot1.jpg)
+
+#### logo.svg on Visual Code Editor
+
 ![logo.svg on Visual Code Editor](screenshot2.jpg)
+
+#### logo.svg on Browser
+
 ![logo.svg on Browser](screenshot3.jpg)
 
 ## Generated logo.svg
