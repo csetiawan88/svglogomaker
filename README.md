@@ -59,6 +59,7 @@ Video Link demonstration: https://drive.google.com/file/d/1nWBkBd2Fr3q9zdI1Pwo1y
 ## Generated logo.svg
 
 A sample logo.svg file for a project repository generated using application is located inside "examples" folder. File name `logo.svg`.
+link: https://github.com/csetiawan88/svglogomaker/tree/main/examples
 
 ## Repository-Link
 
