@@ -24,6 +24,7 @@ SO THAT I don't have to pay a graphic designer
 6. WHEN user have entered input for all the prompts, then an SVG file is created named `logo.svg`.
 7. AND the output text "Generated logo.svg" is printed in the command line
 8. WHEN user open the `logo.svg` file in a browser, then user shown a 300x200 pixel image that matches the criteria user entered.
+9. Run NPM RUN TEST and show all tests passing from the command line.
 
 ## Completed
 
@@ -35,14 +36,19 @@ SO THAT I don't have to pay a graphic designer
 6. I have completed add function entered input for all the prompts, then an SVG file is created named `logo.svg`.
 7. I have created an output text "Generated logo.svg" and printed in the command line
 8. I have created a `logo.svg` file and user can open in a browser, then user shown a 300x200 pixel image that matches the criteria user entered.
+9. I have created test and showing all tests passing from the command line.
 
 ## Video-Link
 
 Video created with Screencastify.
 
-Video Link demonstration: https://drive.google.com/file/d/1nWBkBd2Fr3q9zdI1Pwo1ySH9nyvVqkh8/view
+Video Link demonstration: https://drive.google.com/file/d/1T2QQ_UPk08aFTQfjLqfuZS76253aCLOQ/view
 
 ## Screenshot
+
+#### Run Test
+
+![Run test](screenshot4.jpg)
 
 #### Generating User Input
 
