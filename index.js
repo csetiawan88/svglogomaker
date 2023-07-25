@@ -1,4 +1,4 @@
-// Include packages needed for this application
+// Include packages needed for this application (Inquirer.js, Node.Js and Jest.js)
 // Install node modules and also need to install inquirer to be able to run the program. Run the command “npm install inquirer@8.2.4”
 
 const inquirer = require("inquirer");
